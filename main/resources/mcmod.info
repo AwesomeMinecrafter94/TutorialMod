@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tm",
+  "name": "Tutorial Mod",
+  "description": "Tutorial Mod for my minecraft modding tutorials.",
+  "version": "${0.1}",
+  "mcversion": "${1.11.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Harry"],
+  "credits": "Harry, My Fans",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
